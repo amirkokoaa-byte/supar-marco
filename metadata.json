@@ -1,0 +1,6 @@
+{
+  "name": "دليل سوبر ماركت مصر 2026",
+  "description": "الدليل الشامل والأحدث لعام 2026 لجميع فروع سلاسل السوبر ماركت والهايبر ماركت في مصر",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
